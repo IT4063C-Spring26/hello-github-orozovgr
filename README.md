@@ -23,24 +23,31 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
-- .
+**I learned:** 
+- How GitHub Classroom creates and manages assignment repositories  
+- The difference between cloning, committing, and pushing changes  
+- How to create new files and edit existing files in a GitHub repository  
+- The importance of using descriptive commit messages  
 
 **I struggled with:** (repeat as needed)
-- .
+- Remembering to push my commits to GitHub after committing locally  
+- Understanding the workflow between my local repository and the remote repository at first  
 
-**I need the instructor to help me with:** (repeat as needed)
-- .
+**I need the instructor to help me with:** 
+- - Best practices for organizing repositories and commit history for larger projects  
+- How GitHub is commonly used in team-based or professional environments  
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- GitHub Docs: Cloning a Repository  
+- GitHub Classroom documentation  
+- Course lecture slides and videos  
   
-**I received help from the following people:** (repeat as needed)
-- . 
+**I received help from the following people:** 
+- - Course instructor and lecture materials 
 
 ---
 ## Copyrights and License
